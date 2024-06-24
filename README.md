@@ -1,6 +1,6 @@
 # Salut, Github ! 👋
 
-## ⚪ Technologies que j'utilise
+## 🟢 Technologies que j'utilise
 
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -10,19 +10,19 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 🟢 À propos de moi
+## ⚪ À propos de moi
 
 Je suis un développeur junior passionné par le développement web. Actuellement, je me concentre sur Symfony, Laravel, PHP, HTML, CSS, JavaScript et SQL. J'explore constamment de nouvelles technologies et je suis enthousiaste à l'idée de contribuer à des projets intéressants.
 
 ---
 
-## ⚪ Contribution
+## 🟢 Contribution
 
 ![Contribution graph](https://raw.githubusercontent.com/amn93p/amn93p/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🟢 Statistiques GitHub
+## ⚪ Statistiques GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amn93p&show_icons=true)
 
