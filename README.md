@@ -10,6 +10,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+---
+
 ## ⚪ À propos de moi
 
 Je suis un développeur junior passionné par le développement web. Actuellement, je me concentre sur Symfony, Laravel, PHP, HTML, CSS, JavaScript et SQL. J'explore constamment de nouvelles technologies et je suis enthousiaste à l'idée de contribuer à des projets intéressants.
