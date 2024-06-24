@@ -1,6 +1,6 @@
 <div align="center">
 
-# Salut, Github ! 👋
+# Salut à tous ! 👋
 
 ## 🟢 Technologies que j'utilise
 
