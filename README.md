@@ -12,7 +12,7 @@
 
 ## À propos de moi
 
-Bonjour ! Je suis un développeur junior passionné par le développement web. Actuellement, je me concentre sur Symfony, Laravel, PHP, HTML, CSS, JavaScript et SQL. J'explore constamment de nouvelles technologies et je suis enthousiaste à l'idée de contribuer à des projets intéressants.
+Je suis un développeur junior passionné par le développement web. Actuellement, je me concentre sur Symfony, Laravel, PHP, HTML, CSS, JavaScript et SQL. J'explore constamment de nouvelles technologies et je suis enthousiaste à l'idée de contribuer à des projets intéressants.
 
 ## Contactez-moi
 
