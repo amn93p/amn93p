@@ -28,6 +28,6 @@ Je suis un développeur junior passionné par le développement web. Actuellemen
 
 ---
 
-## 🟢 Contactez-moi
+## 📬 Contactez-moi
 
 Vous pouvez me contacter via [LinkedIn](https://fr.linkedin.com/in/amine-ben-farhat-bb05a52b5).
