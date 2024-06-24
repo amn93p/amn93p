@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-## Technologies que je maîtrise
+## Technologies que j'utilise
 
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -12,7 +12,7 @@
 
 ## À propos de moi
 
-Je suis passionné par le développement web et j'ai de l'expérience avec Symfony, Laravel, PHP, HTML, CSS, JavaScript et SQL. N'hésitez pas à explorer mes projets pour voir ce sur quoi je travaille !
+Bonjour ! Je suis un développeur junior passionné par le développement web. Actuellement, je me concentre sur Symfony, Laravel, PHP, HTML, CSS, JavaScript et SQL. J'explore constamment de nouvelles technologies et je suis enthousiaste à l'idée de contribuer à des projets intéressants.
 
 ## Contactez-moi
 
