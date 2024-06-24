@@ -1,6 +1,6 @@
 # Salut, Github ! 👋
 
-## 🟢 Technologies que j'utilise
+## ⚪ Technologies que j'utilise
 
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -16,7 +16,7 @@ Je suis un développeur junior passionné par le développement web. Actuellemen
 
 ---
 
-## 🟢 Contribution
+## ⚪ Contribution
 
 ![Contribution graph](https://raw.githubusercontent.com/amn93p/amn93p/output/github-contribution-grid-snake.svg)
 
