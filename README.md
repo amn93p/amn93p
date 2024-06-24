@@ -1,8 +1,8 @@
+<div align="center">
+
 # Salut, Github ! 👋
 
 ## 🟢 Technologies que j'utilise
-
-<div align="center">
 
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -11,8 +11,6 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-</div>
 
 ---
 
@@ -37,3 +35,5 @@ Je suis un développeur junior passionné par le développement web. Actuellemen
 ## 📬 Contactez-moi
 
 Vous pouvez me contacter via [LinkedIn](https://fr.linkedin.com/in/amine-ben-farhat-bb05a52b5).
+
+</div>
