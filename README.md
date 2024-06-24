@@ -1,6 +1,5 @@
 ![gifOS](os.gif)
 
-[![Follow on Twitter](https://shields.io/twitter/follow/liam_galvin?label=Follow)](https://twitter.com/liam_galvin) 
 ---
 
 ## Popular Repositories
