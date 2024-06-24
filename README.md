@@ -12,7 +12,7 @@
 
 ## À propos de moi
 
-Bonjour ! Je suis un développeur junior passionné par le développement web. Actuellement, je me concentre sur Symfony, Laravel, PHP, HTML, CSS, JavaScript et SQL. J'explore constamment de nouvelles technologies et je suis enthousiaste à l'idée de contribuer à des projets intéressants.
+Je suis un développeur junior passionné par le développement web. Actuellement, je me concentre sur Symfony, Laravel, PHP, HTML, CSS, JavaScript et SQL. J'explore constamment de nouvelles technologies et je suis enthousiaste à l'idée de contribuer à des projets intéressants.
 
 ## Contactez-moi
 
@@ -22,3 +22,4 @@ Vous pouvez me contacter via [LinkedIn](https://fr.linkedin.com/in/amine-ben-far
 # Contribution
 
 ![Contribution graph](https://raw.githubusercontent.com/amn93p/amn93p/output/github-contribution-grid-snake.svg)
+![GitHub followers](https://img.shields.io/github/followers/amn93p?label=Follow&style=social)
