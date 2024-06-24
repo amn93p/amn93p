@@ -1,1 +1,20 @@
-# amn93p
+# Bienvenue sur mon profil GitHub ! 👋
+
+## Technologies que je maîtrise
+
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+## À propos de moi
+
+Je suis passionné par le développement web et j'ai de l'expérience avec Symfony, Laravel, PHP, HTML, CSS, JavaScript et SQL. N'hésitez pas à explorer mes projets pour voir ce sur quoi je travaille !
+
+## Contactez-moi
+
+Vous pouvez me contacter via [LinkedIn](https://fr.linkedin.com/in/amine-ben-farhat-bb05a52b5).
+
