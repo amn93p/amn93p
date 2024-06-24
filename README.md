@@ -25,3 +25,5 @@ Vous pouvez me contacter via [LinkedIn](https://fr.linkedin.com/in/amine-ben-far
 
 
 ![GitHub followers](https://img.shields.io/github/followers/amn93p?label=Follow&style=social)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amn93p&show_icons=true)
