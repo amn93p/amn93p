@@ -36,8 +36,6 @@
 ## Contributions
 ![Contributions](https://raw.githubusercontent.com/amn93p/amn93p/output/github-contribution-grid-snake.svg)
 
-## Suivez-moi sur GitHub
 [![GitHub Follow](https://img.shields.io/github/followers/amn93p?style=social)](https://github.com/amn93p)
 
-## Vue de Profil
 ![Profile Views](https://komarev.com/ghpvc/?username=amn93p&style=for-the-badge)
