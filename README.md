@@ -28,8 +28,8 @@ Je suis un développeur junior passionné par le développement web. Actuellemen
 
 ## ⚪ Statistiques GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amn93p&show_icons=true)
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amn93p&layout=compact"><p>
+  
 ---
 
 ## 📬 Contactez-moi
