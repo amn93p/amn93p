@@ -1,6 +1,6 @@
 <div align="center">
 
-# Salut à tous ! 👋
+#   Salut à tous ! 👋
 
 ## 🟢 Technologies que j'utilise
 
