@@ -14,23 +14,15 @@
 ## Dépôts Populaires
 <table>
 <tr><td><a href="https://github.com/amn93p/javascript">javascript</a></td><td></td><td align="center" width="12%">1 :star:</td></tr>
-<tr><td><a href="https://github.com/amn93p/phase1">phase1</a></td><td></td><td align="center" width="12%">1 :star:</td></tr>
-<tr><td><a href="https://github.com/amn93p/00FichiersDepartExam">00FichiersDepartExam</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
 <tr><td><a href="https://github.com/amn93p/poo">poo</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
 <tr><td><a href="https://github.com/amn93p/ajax">ajax</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
 <tr><td><a href="https://github.com/amn93p/php">php</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/amn93p/sunshine-movies">sunshine-movies</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
 <tr><td><a href="https://github.com/amn93p/thatmovie">thatmovie</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
 <tr><td><a href="https://github.com/amn93p/cours-js">cours-js</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/amn93p/portfolio">portfolio</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
 <tr><td><a href="https://github.com/amn93p/mediaquery">mediaquery</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
 <tr><td><a href="https://github.com/amn93p/tp5">tp5</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
 <tr><td><a href="https://github.com/amn93p/tp4">tp4</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
 <tr><td><a href="https://github.com/amn93p/tp3">tp3</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/amn93p/html2">html2</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/amn93p/sunrise">sunrise</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/amn93p/workshop">workshop</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
-<tr><td><a href="https://github.com/amn93p/amn93p">amn93p</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
 </table>
 
 ## Contributions
