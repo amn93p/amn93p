@@ -14,7 +14,7 @@ Je suis un développeur web junior passionné, avec l'ambition de devenir un jou
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📈 Mes contributions GitHub
-![Contributions GitHub](https://raw.githubusercontent.com/amn93p/amnp93p/output/github-contribution-grid-snake.svg)
+![Contributions GitHub](https://raw.githubusercontent.com/amn93p/amn93p/output/github-contribution-grid-snake.svg)
 
 ## 📫 Comment me joindr
 - [LinkedIn](https://fr.linkedin.com/in/amine-ben-farhat-bb05a52b5)
