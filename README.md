@@ -5,7 +5,7 @@
 ## 🚀 À propos de moi
 Je suis un développeur web junior passionné, avec l'ambition de devenir un jour un développeur fullstack senior. Chaque ligne de code me rapproche un peu plus de mon rêve !
 
-## 🛠 Langages et Technologies
+## 🛠️ Langages et Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
