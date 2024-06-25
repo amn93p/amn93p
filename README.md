@@ -21,8 +21,8 @@ Je suis un développeur web junior passionné, avec l'ambition de devenir un jou
 ![Contributions GitHub](https://raw.githubusercontent.com/amn93p/amn93p/output/github-contribution-grid-snake.svg)
 
 ## 📫 Comment me joindre
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/amine-ben-farhat-bb05a52b5)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/amn93p)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/amine-ben-farhat-bb05a52b5)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/amn93p)
 
 N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration ou opportunité !
 
