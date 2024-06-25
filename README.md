@@ -27,8 +27,8 @@ Je suis un développeur web junior passionné, avec l'ambition de devenir un jou
 N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration ou opportunité !
 
 ## 🌟 Mes GitHub Stats
-![Les Stats GitHub](https://github-readme-stats.vercel.app/api?username=amn93p&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=amn93p&layout=compact&theme=radical)
+![Les Stats GitHub](https://github-readme-stats.vercel.app/api?username=amn93p&show_icons=true&hide_border=true&bg_color=00000000&text_color=000000&icon_color=58a6ff&title_color=58a6ff)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=amn93p&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=000000)
 
 ## 🔔 Me suivre
 [![Follow on GitHub](https://img.shields.io/github/followers/amn93p?label=Follow&style=social)](https://github.com/amn93p)
