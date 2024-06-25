@@ -12,6 +12,7 @@ Je suis un développeur web junior passionné, avec l'ambition de devenir un jou
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Laragon Badge](https://img.shields.io/badge/Laragon-0E83CD?logo=laragon&logoColor=fff&style=flat)
 
 ## 📈 Mes contributions GitHub
 ![Contributions GitHub](https://raw.githubusercontent.com/amn93p/amn93p/output/github-contribution-grid-snake.svg)
