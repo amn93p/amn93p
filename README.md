@@ -16,7 +16,7 @@ Je suis un développeur web junior passionné, avec l'ambition de devenir un jou
 ## 📈 Mes contributions GitHub
 ![Contributions GitHub](https://raw.githubusercontent.com/amn93p/amn93p/output/github-contribution-grid-snake.svg)
 
-## 📫 Comment me joindr
+## 📫 Comment me joindre
 - [LinkedIn](https://fr.linkedin.com/in/amine-ben-farhat-bb05a52b5)
 
 N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration ou opportunité !
