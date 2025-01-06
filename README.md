@@ -18,7 +18,11 @@ Je suis un développeur web junior passionné, avec l'ambition de devenir un jou
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=flat)
 
 ## 📈 Mes contributions GitHub
-![Contributions GitHub](https://raw.githubusercontent.com/amn93p/amn93p/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amn93p/amn93p/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amn93p/amn93p/output/github-contribution-grid-snake-light.svg" />
+  <img alt="Contributions GitHub Snake" src="https://raw.githubusercontent.com/amn93p/amn93p/output/github-contribution-grid-snake-light.svg" />
+</picture>
 
 ## 📫 Comment me joindre
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/amine-ben-farhat-bb05a52b5)
