@@ -10,7 +10,7 @@ Je suis un développeur web junior passionné, avec l'ambition de devenir un jou
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-c-F05032?style=flat-square&logo=c&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&style=flat)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?logo=laragon&logoColor=fff&style=flat)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=flat)
