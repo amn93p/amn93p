@@ -14,6 +14,7 @@ Je suis un développeur web junior passionné, avec l'ambition de devenir un jou
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&style=flat)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?logo=laragon&logoColor=fff&style=flat)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=flat)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 📈 Mes contributions GitHub
 <picture>
