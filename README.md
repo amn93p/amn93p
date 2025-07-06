@@ -1,15 +1,15 @@
-# 👋 Bonjour, je suis Amn
+# Bonjour, je suis Amn
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amn93p&label=Vues%20du%20profil&color=blue&style=flat-square)
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
-🎯 Je suis un développeur web junior passionné par le code et les défis techniques.  
-Mon objectif : devenir **développeur fullstack senior** et contribuer à des projets ambitieux, créatifs et utiles.
+Je suis un développeur web junior passionné par le code et les défis techniques.  
+Mon objectif : devenir développeur fullstack senior et contribuer à des projets ambitieux, créatifs et utiles.
 
-💡 Chaque ligne de code est une opportunité d'apprentissage.
+Chaque ligne de code est une opportunité d'apprentissage.
 
 ---
 
@@ -28,7 +28,7 @@ Mon objectif : devenir **développeur fullstack senior** et contribuer à des pr
 
 ---
 
-## 📈 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amn93p&theme=default&hide_border=true" alt="GitHub Streak" />
@@ -44,7 +44,7 @@ Mon objectif : devenir **développeur fullstack senior** et contribuer à des pr
 
 ---
 
-## 🐍 Animation de Contributions
+## Activité de Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amn93p/amn93p/output/github-contribution-grid-snake-dark.svg" />
@@ -54,13 +54,13 @@ Mon objectif : devenir **développeur fullstack senior** et contribuer à des pr
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amine%20Ben%20Farhat-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/amine-ben-farhat-bb05a52b5)
 [![GitHub](https://img.shields.io/badge/GitHub-amn93p-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amn93p)
 
 ---
 
-## 🔔 Me suivre
+## Me suivre
 
 [![GitHub followers](https://img.shields.io/github/followers/amn93p?label=Suivre&style=social)](https://github.com/amn93p)
